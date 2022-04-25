@@ -7,6 +7,6 @@ public class TraiCay extends TraSuaDecorator{
     }
  @Override
     public int Cost() {
-        return 2+super.Cost();
+        return 5+super.Cost();
     }
 }

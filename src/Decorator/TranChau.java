@@ -8,7 +8,7 @@ public class TranChau extends TraSuaDecorator {
 
     @Override
     public int Cost() {
-        return 1 + super.Cost();
+        return 5 + super.Cost();
     }
 
 }
