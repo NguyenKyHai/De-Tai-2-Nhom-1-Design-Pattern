@@ -14,7 +14,7 @@ public class RemoteImpl implements IRemote{
 
     @Override
     public String toString() {
-        return "RemoteImplement";
+        return "RemoteImpl";
     }
     
 }
