@@ -1,6 +1,6 @@
 package Bridge;
 
-public class SmallDog implements IFeeding {
+public class Small implements IFeeding {
 
     @Override
     public void feed(int timesADay, int amount, String typeOfFood) {
